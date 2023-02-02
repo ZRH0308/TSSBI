@@ -1,4 +1,4 @@
-# TSSBIA
+# TSSBI
 
 # The code & data repository for [Technological Search Strategy and Breakthrough Innovation: An Integrated Approach Based on Main-path Analysis] 
 
